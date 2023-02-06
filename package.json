@@ -48,5 +48,9 @@
     "react-test-renderer": "18.1.0",
     "typescript": "^4.6.3"
   },
+  "engines": {
+    "node": "v16.13.0",
+    "npm":"8.5.5"
+  },
   "private": true
 }
